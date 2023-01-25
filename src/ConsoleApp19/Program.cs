@@ -6,3 +6,4 @@ Console.WriteLine(soo);
 var drii = "Hello everyone";
 
 Console.WriteLine("My name is dilshod");
+

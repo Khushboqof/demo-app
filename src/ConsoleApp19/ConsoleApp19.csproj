@@ -9,8 +9,10 @@
 
   <ItemGroup>
     <None Remove="dilshod\" />
+    <None Remove="commit\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="dilshod\" />
+    <Folder Include="commit\" />
   </ItemGroup>
 </Project>

@@ -11,6 +11,7 @@ namespace ConsoleApp19.Begzod
         public int Id { get; set; }
         public string Name { get; set; }
         public string SureName { get; set; }
-
+        public int MyProperty { get; set; }
+        public int MyProperty1{ get; set; }
     }
 }
